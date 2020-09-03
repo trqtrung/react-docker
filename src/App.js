@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          React Docker Ubuntu
         </a>
       </header>
     </div>
